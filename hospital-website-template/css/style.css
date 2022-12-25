@@ -264,7 +264,7 @@
     box-sizing: border-box;
   }
   
-  body {
+  .body_payment {
     background-color: var(--color-background);
     display: grid;
     font-family: var(--font-family-base);

@@ -89,10 +89,6 @@
             }
         }
     });
-    
-    document.getElementById("mainBtn").onclick = function () {
-        location.href = "Doctor.html";
-    };
 
     // Testimonials carousel
     $(".testimonial-carousel").owlCarousel({
