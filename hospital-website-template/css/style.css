@@ -264,7 +264,7 @@
     box-sizing: border-box;
   }
   
-  .body_payment {
+  .body_payment { 
     background-color: var(--color-background);
     display: grid;
     font-family: var(--font-family-base);
@@ -295,7 +295,6 @@
   h1 {
     font-size: var(--font-size-h1);
     line-height: 1.2;
-    margin-block: 0 1.5em;
   }
   
   h2 {
@@ -369,7 +368,6 @@
     border-radius: 1em;
     background-color: var(--color-primary);
     color: #fff;
-    padding: 1em;
   }
   
   .form {
@@ -414,13 +412,9 @@
   }
   
   .iphone {
-    background-color: #fbf6f7;
-    background-image: linear-gradient(to bottom, #fbf6f7, #fff);
     border-radius: 2em;
-    block-size: 812px;
     box-shadow: 0 0 1em rgba(0, 0, 0, 0.0625);
-    inline-size: 375px;
+    inline-size: 344px;
     overflow: auto;
-    padding: 2em;
   }
   
